@@ -1,0 +1,5 @@
+{"records": [{
+    "jsonSchemaLocation": "/Rest1.module/Service Descriptors/rest1.module.Resource-Resource.json",
+    "conversionType": "linked",
+    "xsdSchemaTargetNamespace": "http://www.example.com/namespaces/tns/1582525320755"
+}]}
